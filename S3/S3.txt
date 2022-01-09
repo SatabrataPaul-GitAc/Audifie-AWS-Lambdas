@@ -1,1 +1,7 @@
-For Lamda Functions related to AWS S3 Bucket
+Lambda functions related to the following triggers : 
+
+- when a document is uploaded to an s3 bucket in AWS Cloud, this trigger gets fired 
+  to extract the pdf data and start the text data extracction process .
+
+- when the mp3 and marks files gets sored in their respective s3 buckets, this trigger 
+  gets fired which renames the files according to the production requirements.

@@ -1,1 +1,4 @@
-For Lamda Functions related to AWS Textract
+Lambda functions related to the following triggers :- 
+
+- extracting the text results (when textract operation gets completed) , 
+  and gets stored into an s3 bucket.

@@ -1,1 +1,4 @@
-For Lamda Functions related to AWS Polly
+Lambda functions related to the following triggers :- 
+
+- when the text data has been uploaded to an s3 bucket , this trigger getd fired for 
+  generating audio and speech marks .
