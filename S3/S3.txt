@@ -1,1 +1,6 @@
-For Lamda Functions related to AWS S3 Bucket
+Lambda functions related to the following triggers : 
+
+- when a document is uploaded to an s3 bucket in AWS Cloud.
+
+- renaming the mp3 and speech marks files after it has been processed and stored in an 
+  s3 bucket by AWS Polly.
